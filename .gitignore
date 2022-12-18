@@ -1,0 +1,7 @@
+.vscode
+.idea
+.DS_store
+*.so
+*.a
+*.pyc
+*.o
